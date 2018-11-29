@@ -1,5 +1,5 @@
 # pyConvo
-<h3>A bot that will provide conversation via witty banter and follow-up questions. </h3>
+### The goal of this bot is to ask the user strategic questions to know more about who is talking to it. Will use the gathered information to provide user specific responses. Maybe make a game where the bot can guess who's talking to it based on 'x' minute conversations. 
 
 This project uses pipenv, to install type `pip3 install --user pipenv`
 
