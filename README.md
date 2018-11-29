@@ -4,8 +4,11 @@
 This project uses pipenv, to install type `pip3 install --user pipenv`
 
 ### Install dependencies using pip env
-<ul>1. Clone repo and `cd` into the directory. You should see 2 files: `Pipenv` and `Pipenv.lock`</ul>
-<ul>2. Type `pipenv install`. This will install the pipenv and automagically install the necessary packages</ul>
-<ul><ul>To view the packages used type `cat Pipfile`</ul></ul>
+
+ 1. Clone repo and `cd` into the directory. You should see 2 files: `Pipenv` and `Pipenv.lock`
+ 
+ 2. Type `pipenv install`. This will install the pipenv and automagically install the necessary packages
+ 
+ 2a. To view the packages used type `cat Pipfile`
 
 
