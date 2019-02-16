@@ -1,5 +1,5 @@
 # pyConvo
-### The goal of this bot is to ask the user strategic questions to know more about who is talking to it. Will use the gathered information to provide user specific responses. Maybe make a game where the bot can guess who's talking to it based on 'x' minute conversations. 
+### The goal of this bot is to ask the user strategic questions to know more about who is talking to it. Will use the gathered information to provide user specific responses. Currently, it will play a game with you, where it chooses a fruit and you verbally guess the fruit.
 
 This project uses pipenv, to install type `pip3 install --user pipenv`
 
